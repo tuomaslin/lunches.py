@@ -1,6 +1,6 @@
 # Small project to search for lunch menus near to you
 - The script uses lounaat.info to search for restaurants and their lunch menus.
-
+- If you don't have all libraries used in the scripts, run pip install -r requirements.txt
 
 ## lounaat.py
 - Shows restaurants and menus in Keilaniemi
