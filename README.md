@@ -1,4 +1,4 @@
-# Small project to search for lunch menus near to given address
+# Small project to search for lunch menus near to given street or place
 - The script uses [lounaat.info](https://lounaat.info) to search for restaurants and their lunch menus.
 - If you don't have all libraries used in the script, run ```pip install -r requirements.txt```
 
