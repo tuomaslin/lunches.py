@@ -42,4 +42,3 @@ except IndexError as err:
 	print("Give address as an argument")
 except AttributeError as err2:
 	print("No restaurants found for given location")
-

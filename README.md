@@ -7,7 +7,7 @@ If you don't have all libraries used in the script run ```pip3 install -r requir
 Run ```~$ python3 lunches.py lauttasaari```, where _lauttasaari_ is the place where you would like to find restaurants from.
 
 _Optional_ run the script in a virtual environment with
-  1. ```~$ virtualenv venv```
+  1. ```~$ python3 -m venv venv```
   2. ```~$ source venv/bin/activate```
   3. ```~$ pip3 install -r requirements.txt```
   4. ```~$ python3 lunches.py lauttasaari```
